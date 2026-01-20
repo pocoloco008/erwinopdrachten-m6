@@ -12,6 +12,7 @@ opdracht 2
 
 opdracht 3
 
+https://github.com/pocoloco008/erwinopdrachten-m6/tree/main/My%20project%20(1)/Assets/scripts
 https://github.com/pocoloco008/erwinopdrachten-m6/blob/main/My%20project%20(1)/Assets/scripts/inventory.cs
 
 
