@@ -26,3 +26,4 @@ opdracht 4
 
 opdracht 7
 
+https://github.com/pocoloco008/erwinopdrachten-m6/blob/main/My%20project%20(1)/Assets/opdracht9/simplefy.cs
