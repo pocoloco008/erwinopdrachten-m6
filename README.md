@@ -7,6 +7,7 @@ https://github.com/pocoloco008/erwinopdrachten-m6/tree/main/My%20project%20(1)/A
 
 opdracht 2
 
+<img width="1023" height="542" alt="image" src="https://github.com/user-attachments/assets/ae558107-0294-479d-a7dd-b90a80de0662" />
 
 
 
