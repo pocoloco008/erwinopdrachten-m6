@@ -2,7 +2,7 @@
 
 opdracht 1
 
-
+https://github.com/pocoloco008/erwinopdrachten-m6/tree/main/My%20project%20(1)/Assets/scripts
 
 
 opdracht 2
