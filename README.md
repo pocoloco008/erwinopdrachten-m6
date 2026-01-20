@@ -7,44 +7,6 @@ https://github.com/pocoloco008/erwinopdrachten-m6/tree/main/My%20project%20(1)/A
 
 opdracht 2
 
-classDiagram
-
-class Tower {
-    +cost : int
-    +range : float
-    +fireRate : float
-    +damage : int
-    +UpgradeTower()
-}
-
-class UpgradeUI {
-    +Show()
-    +Hide()
-    +SetTarget(Tower)
-}
-
-class UpgradeButton {
-    +OnClick()
-}
-
-class CloseButton {
-    +OnClick()
-}
-
-class Enemy {
-    +currentHealth : int
-    +TakeDamage()
-}
-
-class EnemyHealthBar {
-    +UpdateHealth()
-}
-
-Tower --> UpgradeUI : opent
-UpgradeUI --> UpgradeButton
-UpgradeUI --> CloseButton
-Tower --> Enemy : valt aan
-Enemy --> EnemyHealthBar : gebruikt
 
 
 
